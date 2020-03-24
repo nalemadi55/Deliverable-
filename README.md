@@ -1,9 +1,9 @@
 # Deliverable-1
 There is a signup page for the individual or group mates.
 HTML
-  html code is the from end code 
+  html code is the front end code 
 PHP 
-  this code is the backend which run on to put the data you havr put on your database file which was a database a file 
+  this code is the back end which run on to put the data you havr put on your database file which was a database a file 
   like sigup.sql was attached in which database query were made to make a database and put these data onto the database.
 
 
