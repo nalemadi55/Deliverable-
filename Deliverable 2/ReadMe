@@ -1,1 +1,10 @@
-as
+There is a 
+  Scope,
+  use-case,
+  Business Rules,
+  EERD,
+  and Schema of the Project.
+In Scope, we define a feature and functions of our Project and in use case Diagram,
+we describe a simplest representation of a user's interaction with the system that shows the relationship between the user and the different use cases in which the user is involved and in business rule we defines or constrains some aspect of business and always resolves to either true or false. It specifically involves terms, facts and rules. In EERD and Schema, we describe a high-level or conceptual data model incorporating extensions to the original entity–relationship model, used in the design of databases.
+These are all about deliverable 2
+Thank you for reading
