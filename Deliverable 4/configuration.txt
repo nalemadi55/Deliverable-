@@ -1,0 +1,60 @@
+MUST SET DATABASE WITH THIS USERNAME AND PASSWORD
+database username:root
+database password :947539
+OTHERWISE CHANGE DATABASE USERNAME AND PASSWORD IN THESE FILES
+connection.php
+fetch.php
+fetch2.php
+
+database filename:localhost.sql
+
+admin SIDE
+link:-
+http://localhost/website/admin.php
+username :admin
+password :admin@123
+
+
+
+
+vendor SIDE
+link:-
+http://localhost/website/vendor_login.php
+
+vendor 1
+vendor username :vendr1@gmail.com
+password :vendor1
+
+
+vendor 2
+
+vendor username :vendr2@gmail.com
+password :vendor2
+
+
+vendor 3
+
+vendor username :vendr2@gmail.com
+password :vendor3
+
+
+
+customer Side
+
+login link:-
+http://localhost/website/form/index.php
+
+customer1
+username:customer1@gmail.com
+password :customer1
+
+
+username:customer2@gmail.com
+password :customer2
+
+username:customer3@gmail.com
+password :customer3@gmail
+
+
+cart link:-
+http://localhost/website/form/index.php
